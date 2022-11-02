@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Lista de usuários
+
+Este projeto exemplifica como fazer uma listagem de usuários no React.js.
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
